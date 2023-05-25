@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring WebFlux Projects.iml" filepath="$PROJECT_DIR$/.idea/Spring WebFlux Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-webflux-project/Spring-webflux-project.iml" filepath="$PROJECT_DIR$/Spring-webflux-project/Spring-webflux-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-webflux-functional-endpoint-project/Spring-webflux-project (1).iml" filepath="$PROJECT_DIR$/Spring-webflux-functional-endpoint-project/Spring-webflux-project (1).iml" />
+    </modules>
+  </component>
+</project>
